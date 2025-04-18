@@ -1,0 +1,11 @@
+yfinance
+praw
+requests
+newsapi-python
+alpha_vantage
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+pandas
+python-dotenv
