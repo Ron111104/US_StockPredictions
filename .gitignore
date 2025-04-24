@@ -1,0 +1,7 @@
+﻿# Keras model files
+*.h5
+*.hdf5
+*.keras
+# Environment variables
+.env
+.env/
